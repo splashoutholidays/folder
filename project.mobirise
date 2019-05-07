@@ -320,7 +320,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1116.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -338,7 +338,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
